@@ -2,15 +2,6 @@
 
 Aplikasi web To-Do List sederhana dan intuitif yang dibangun dengan Vue.js.
 
-## Daftar Isi
-
-- [Fitur](#fitur)
-- [Demo](#demo)
-- [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
-- [Berkontribusi](#berkontribusi)
-- [Lisensi](#lisensi)
-
 ## Fitur
 
 - **Tambah Tugas**: Mudah menambahkan tugas baru dengan kategori.
@@ -33,6 +24,10 @@ Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda.
 
 ```bash
 git clone https://github.com/AzidMuhammad/todo-list-app.git
-
+```
+```bash
 npm install
+```
+```bash
 npm run dev
+```
