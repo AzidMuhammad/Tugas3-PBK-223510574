@@ -23,20 +23,16 @@ Prerequisites
 Make sure you have Node.js and npm installed on your machine.
 
 Clone the Repository
-bash
-Copy code
-git clone https://github.com/your-username/todo-list-app.git
+git clone https://github.com/AzidMuhammad/todo-list-app.git
+
 Navigate to the Project Directory
-bash
-Copy code
 cd todo-list-app
+
 Install Dependencies
-bash
-Copy code
 npm install
+
 Usage
 Run the Development Server:
-bash
-Copy code
-npm run serve
+npm run dev
+
 View the Application:Open your browser and visit http://localhost:8080 to view the application.
