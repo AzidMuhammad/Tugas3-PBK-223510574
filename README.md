@@ -1,38 +1,38 @@
-To-Do List App
-A simple and intuitive To-Do List web application built with Vue.js.
+# To-Do List App
 
+Aplikasi web To-Do List sederhana dan intuitif yang dibangun dengan Vue.js.
 
-Table of Contents
-Features
-Demo
-Installation
-Usage
-Contributing
-License
-Features
-Add Tasks: Easily add new tasks with categories.
-Task Management: Mark tasks as completed, edit existing tasks, or delete tasks.
-Filtering: Filter tasks by category or search through tasks.
-Responsive Design: Optimized for both desktop and mobile devices.
-Intuitive Interface: Simple and user-friendly design.
-Demo
-Check out the live demo here.
+## Daftar Isi
 
-Installation
-Prerequisites
-Make sure you have Node.js and npm installed on your machine.
+- [Fitur](#fitur)
+- [Demo](#demo)
+- [Instalasi](#instalasi)
+- [Penggunaan](#penggunaan)
+- [Berkontribusi](#berkontribusi)
+- [Lisensi](#lisensi)
 
-Clone the Repository
+## Fitur
+
+- **Tambah Tugas**: Mudah menambahkan tugas baru dengan kategori.
+- **Manajemen Tugas**: Tandai tugas sebagai selesai, edit tugas yang ada, atau hapus tugas.
+- **Penyaringan**: Saring tugas berdasarkan kategori atau cari tugas.
+- **Desain Responsif**: Dioptimalkan untuk perangkat desktop dan mobile.
+- **Antarmuka Intuitif**: Desain yang sederhana dan mudah digunakan.
+
+## Demo
+
+Lihat demo live di sini.
+
+## Instalasi
+
+### Prasyarat
+
+Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda.
+
+### Clone Repository
+
+```bash
 git clone https://github.com/AzidMuhammad/todo-list-app.git
 
-Navigate to the Project Directory
-cd todo-list-app
-
-Install Dependencies
 npm install
-
-Usage
-Run the Development Server:
 npm run dev
-
-View the Application:Open your browser and visit http://localhost:8080 to view the application.
