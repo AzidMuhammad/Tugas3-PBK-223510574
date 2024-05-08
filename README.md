@@ -25,9 +25,11 @@ Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda.
 ```bash
 git clone https://github.com/AzidMuhammad/todo-list-app.git
 ```
+### Install Project
 ```bash
 npm install
 ```
+### Jalankan Server
 ```bash
 npm run dev
 ```
