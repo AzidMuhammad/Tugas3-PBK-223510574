@@ -18,7 +18,9 @@ Lihat demo live di sini.
 
 ### Prasyarat
 
+```bash
 Pastikan Anda memiliki Node.js dan npm terinstal di komputer Anda.
+```
 
 ### Clone Repository
 
